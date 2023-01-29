@@ -23,7 +23,7 @@ private final TalonFX[] motors = {
 };
 
  
-  /** Creates a new ExampleSubsyitstem. */
+  /** Creates a new ExampleSubsyitstem                        . */
   public DriveTrain() {
 for (TalonFX motor : motors) {
   motor.configFactoryDefault();
